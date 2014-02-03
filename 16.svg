@@ -1,0 +1,7 @@
+<svg class="trinity" preserveAspectRatio="xMidYMid" version="1.1" viewBox="0 0 16 16" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" background="transparent">
+  <g id="base">
+    <path class="tri" d="M 11 13.5 L 11 16 L 6 9 Z" fill="black" />
+    <path class="tri" d="M 5.15 3 L 5.15 8 L 0 12.5 Z" fill="black" />
+    <path class="tri" d="M 6 0 L 16 16 L 6 8 Z" fill="black" />
+  </g>
+</svg>
